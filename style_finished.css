@@ -1,0 +1,28 @@
+/* All text */
+html {
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+/* Body text */
+p {
+    /* Size */
+    font-size: 20px;
+/* Spacing */
+    line-height: 1.25em;
+
+    margin-bottom: .5em;
+
+    /* color? */
+}
+
+/* Headings */
+h1 {
+    font-size: 42px;
+    text-align:right;
+}
+
+h2 {
+    font-size: 20px;
+    margin-top: .75em;
+    margin-bottom: .1em;
+}
